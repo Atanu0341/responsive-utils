@@ -9,12 +9,23 @@
   "keywords": [
     "responsive",
     "design",
-    "tilities",
+    "utilities",
     "javascript",
     "npm"
   ],
   "author": "Atanu Majumder",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Atanu0341/responsive-utils"
+  },
+  "homepage": "https://github.com/Atanu0341/responsive-utils#readme",
+  "bugs": {
+    "url": "https://github.com/Atanu0341/responsive-utils/issues"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
   "devDependencies": {
     "jest": "^29.7.0"
   }
