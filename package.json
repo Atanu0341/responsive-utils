@@ -1,0 +1,21 @@
+{
+  "name": "responsive-utils",
+  "version": "1.0.1",
+  "description": "A collection of responsive design utilities for JavaScript/Node.js developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "responsive",
+    "design",
+    "tilities",
+    "javascript",
+    "npm"
+  ],
+  "author": "Atanu Majumder",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
