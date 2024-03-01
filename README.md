@@ -1,4 +1,4 @@
-ï»¿# Responsive Utils
+ÿþï»¿# Responsive Utils
 
 ***A versatile utility library for simplifying responsive design in JavaScript and Node.js.***
 
@@ -32,11 +32,11 @@ console.log('Is Landscape:', orientation);
 import React, { useState, useEffect } from 'react';
 import { isLandscape } from 'responsive-utils';
 
-const MyComponent = () => {
+const MyComponent = (=> {
   const [orientation, setOrientation] = useState(isLandscape(window.innerWidth, window.innerHeight));
 
-  useEffect(() => {
-    const handleResize = () => {
+  useEffect((=> {
+    const handleResize = (=> {
       setOrientation(isLandscape(window.innerWidth, window.innerHeight));
     };
 
