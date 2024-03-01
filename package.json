@@ -1,6 +1,6 @@
 {
   "name": "responsive-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A collection of responsive design utilities for JavaScript/Node.js developers.",
   "main": "index.js",
   "scripts": {
